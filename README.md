@@ -43,7 +43,7 @@
 ![Screenshot 2025-04-19 234140](https://github.com/user-attachments/assets/6e9eae75-cbb9-41fa-8278-36512b07abd4)
 
 ## que 13
-![Screenshot 2025-04-16 134456](https://github.com/user-attachments/assets/399809ad-7ab3-486a-9450-eff656334ea7)
+![image](https://github.com/user-attachments/assets/b592bbc3-ab91-4233-9172-e48c9ef97be7)
 
 ## que 14
 ![Screenshot 2025-04-16 134712](https://github.com/user-attachments/assets/df2c1d8e-5bbe-40c1-9621-3cd8dcfca8e6)
