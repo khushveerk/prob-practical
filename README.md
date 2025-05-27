@@ -78,16 +78,16 @@ Eggs	0.25	=LOG(0.25,2)	=-0.25*LOG(0.25,2)
     or 
 ```
 Click Option	P(x)	log2(P(x))	H(x) = -P(x) * log2(P(x))
-Click "Buy Now"	0.6	=LOG(0.6,2)	=-0.6*LOG(0.6,2)
-Click "Learn More"	0.3	=LOG(0.3,2)	=-0.3*LOG(0.3,2)
-Exit Page	0.1	=LOG(0.1,2)	=-0.1*LOG(0.1,2)
+Click "Buy Now" 	0.6	   =LOG(0.6,2)	  =-0.6*LOG(0.6,2)
+Click "Learn More"	 0.3	  =LOG(0.3,2)	 =-0.3*LOG(0.3,2)
+Exit Page   	0.1	   =LOG(0.1,2)	  =-0.1*LOG(0.1,2)
 ```
 ![image](https://github.com/user-attachments/assets/29222865-19e7-40f0-b846-2baa6c2e56eb)
 
     or
  ```
- Email Type	P(x)	log2(P(x))	H(x)
-Spam	0.7	=LOG(0.7,2)	=-0.7*LOG(0.7,2)
-Not-Spam	0.3	=LOG(0.3,2)	=-0.3*LOG(0.3,2) 
+ Email Type P(x)	log2(P(x))	H(x)
+Spam	 0.7	=LOG(0.7,2)	  =-0.7*LOG(0.7,2)
+Not-Spam	0.3	 =LOG(0.3,2)	=-0.3*LOG(0.3,2) 
 ```
 ![image](https://github.com/user-attachments/assets/eb833def-be3f-45cf-a293-ef2793cdeea1)
