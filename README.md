@@ -67,25 +67,27 @@
 ![image](https://github.com/user-attachments/assets/b0600ff8-b596-4b27-aa62-42478cd87f2d)
 
 can use this data :-
-
+```
 product Bought	P(x)	log2(P(x))	H(x)
 Milk	 0.4	=LOG(0.4,2)	=-0.4*LOG(0.4,2)
 Bread	0.35	=LOG(0.35,2)	=-0.35*LOG(0.35,2)
 Eggs	0.25	=LOG(0.25,2)	=-0.25*LOG(0.25,2)
-
+```
 ![image](https://github.com/user-attachments/assets/27db376a-4f5b-465b-a69a-2e3aa79c07ad)
 
     or 
+```
 Click Option	P(x)	log2(P(x))	H(x) = -P(x) * log2(P(x))
 Click "Buy Now"	0.6	=LOG(0.6,2)	=-0.6*LOG(0.6,2)
 Click "Learn More"	0.3	=LOG(0.3,2)	=-0.3*LOG(0.3,2)
 Exit Page	0.1	=LOG(0.1,2)	=-0.1*LOG(0.1,2)
-
+```
 ![image](https://github.com/user-attachments/assets/29222865-19e7-40f0-b846-2baa6c2e56eb)
 
-    or 
+    or
+ ```
  Email Type	P(x)	log2(P(x))	H(x)
 Spam	0.7	=LOG(0.7,2)	=-0.7*LOG(0.7,2)
 Not-Spam	0.3	=LOG(0.3,2)	=-0.3*LOG(0.3,2) 
-
+```
 ![image](https://github.com/user-attachments/assets/eb833def-be3f-45cf-a293-ef2793cdeea1)
